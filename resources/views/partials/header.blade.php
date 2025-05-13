@@ -1,0 +1,2 @@
+{{-- Navigation --}}
+@include('partials.navigation')
