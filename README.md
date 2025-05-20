@@ -31,4 +31,5 @@ php artisan serve
 ```
 
 ## 📸 Screenshot
-![image](https://github.com/user-attachments/assets/39177261-794b-45e4-ad8f-5238c1607bf7)
+![image](https://github.com/user-attachments/assets/c2cb62ca-d68a-463d-8d88-8b3b9aa75abd)
+
