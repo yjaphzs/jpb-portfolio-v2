@@ -9,25 +9,25 @@ A modern, responsive portfolio website built with Laravel 12, using Blade templa
 
 ## 🚀 Installation & Setup
 ```bash
- # Clone the repository
-      git clone https://github.com/yjaphzs/jpb-portfolio-v2.git
-      cd jpb-portfolio-v2
+# Clone the repository
+git clone https://github.com/yjaphzs/jpb-portfolio-v2.git
+cd jpb-portfolio-v2
         
-      # Install PHP dependencies
-      composer install
+# Install PHP dependencies
+composer install
         
-      # Install JS/CSS dependencies
-      npm install
+# Install JS/CSS dependencies
+npm install
         
-      # Copy environment file and generate key
-      cp .env.example .env
-      php artisan key:generate
+# Copy environment file and generate key
+cp .env.example .env
+php artisan key:generate
         
-      # Run Vite
-      npm run dev
+# Run Vite
+npm run dev
         
-      # Start the Laravel development server
-      php artisan serve
+# Start the Laravel development server
+php artisan serve
 ```
 
 ## 📸 Screenshot
