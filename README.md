@@ -24,7 +24,7 @@ A modern, responsive portfolio website built with Laravel 12, using Blade templa
   cp .env.example .env
   php artisan key:generate
     
-  # Run Vite (or Mix) for assets
+  # Run Vite
   npm run dev
     
   # Start the Laravel development server
